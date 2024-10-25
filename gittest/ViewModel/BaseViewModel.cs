@@ -9,5 +9,7 @@ namespace gittest.ViewModel
     class BaseViewModel
     {
         int i = 1;
+
+        string eee = string.Empty;
     }
 }
